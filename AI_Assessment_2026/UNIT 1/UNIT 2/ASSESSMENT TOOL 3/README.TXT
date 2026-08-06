@@ -1,6 +1,6 @@
 # Artificial Intelligence Lab Programs
 
-## Experiment Title
+## Dry Run Test 
 
 Implementation of A* Search Algorithm and Minimax Algorithm with Alpha-Beta Pruning using Python.
 
